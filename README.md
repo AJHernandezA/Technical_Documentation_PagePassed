@@ -7,4 +7,4 @@ Technologies: Html Css
 Preview:
 
 <hr>
-<img alt="Preview" src="https://i.ibb.co/88fr5rP/Technical-Doc.png" width="500" height="320" />
+<img alt="Preview" src="https://i.ibb.co/88fr5rP/Technical-Doc.png" />
