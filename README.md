@@ -7,4 +7,4 @@ Technologies: Html Css
 Preview:
 
 <hr>
-<img alt="Preview" src="https://i.ibb.co/88fr5rP/Technical-Doc.png" />
+<a href="https://ajhernandeza.github.io/Technical_Documentation_PagePassed/">  <img alt="Preview" src="https://i.ibb.co/88fr5rP/Technical-Doc.png" /></a>
